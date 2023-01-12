@@ -1,7 +1,22 @@
 body{
+    color: #dedc82;
     margin:0;
     padding: 0;
 }
 .img{
-    width: 30%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #fffb8a;
+}
+hr{
+    border: 2px none white;
+    border-top-style: solid;
+    height: 0px;
+    border-right: auto;
+}
+a{
+    color:#fffb8a;
 }
